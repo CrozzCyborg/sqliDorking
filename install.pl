@@ -2,7 +2,7 @@
 use CPAN;
 
 if($< != 0){
-	print "¡Necesitas ejecutar esto como root!";
+	print "Â¡You need to run this as root!";
 	exit;
 }
 
